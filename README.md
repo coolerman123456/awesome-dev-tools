@@ -1,10 +1,10 @@
 # 🧰 Awesome Tools
 
-A curated directory of **334+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
+A curated directory of **343+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 334 tools across 30 categories · last updated 2026-10-26
+> 343 tools across 30 categories · last updated 2026-11-01
 
 ---
 
@@ -488,8 +488,16 @@ A curated directory of **334+ free, browser-based tools** from [toolz.dev](https
 
 ## Marketing Tools
 
+- [Affiliate Agreement Generator](https://toolz.dev/tools/affiliate-agreement-generator) - Fill in your commission rate, attribution window, clawback and payout terms, and get an affiliate program agreement you can copy or download.
+- [Affiliate Commission Calculator](https://toolz.dev/tools/affiliate-commission-calculator) - Work out what a referral costs you once churn is taken into account, what a tier really pays, and what your offer earns per click.
+- [Anchor Text Checker](https://toolz.dev/tools/anchor-text-checker) - Find internal anchor text that points at more than one page, with every target, how often each is linked, and a CSV of the links to fix.
 - [Ask Questions](https://toolz.dev/tools/ask-questions) - Find the questions people are actually asking about a topic on Reddit in the last two months, cleaned into headings you can build an article around.
+- [Dead-End Page Checker](https://toolz.dev/tools/dead-end-page-checker) - Count the onward internal links on every page and find the ones that lead nowhere, with nofollow links reported separately.
+- [Influencer Contract Generator](https://toolz.dev/tools/influencer-contract-generator) - Build a brand and creator agreement for a sponsored post, a UGC package or an ambassadorship, with usage rights, revisions and an FTC disclosure clause.
 - [Maps Scraper](https://toolz.dev/tools/maps-scraper) - Pull business listings for any search and place: name, address, category, rating, review count, phone and website, deduplicated and exportable as CSV.
+- [Orphan Page Checker](https://toolz.dev/tools/orphan-page-checker) - Crawl a sitemap or a list of URLs and find the pages nothing else links to, with the inbound and outbound counts behind each verdict.
+- [Referral Agreement Generator](https://toolz.dev/tools/referral-agreement-generator) - Build a B2B referral partner agreement covering lead registration, the protection window, non-circumvention and how the fee is earned and paid.
+- [Referral Code Generator](https://toolz.dev/tools/referral-code-generator) - Generate a batch of unique referral or affiliate codes with a partner prefix, confusable characters removed, and a tracking link built from each code.
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
 - [Repohistory](https://repohistory.com) - GitHub analytics without the standard 14-day constraint.
 - [umami](https://umami.is/) - Open source, privacy-focused alternative to Google Analytics.
@@ -635,6 +643,7 @@ A curated directory of **334+ free, browser-based tools** from [toolz.dev](https
 - [Character Counter](https://toolz.dev/tools/character-counter) - Count characters, words, sentences and paragraphs live as you type, estimate reading time and byte size, and check your text against social media and SEO length limits.
 - [Duplicate Line Remover](https://toolz.dev/tools/duplicate-line-remover) - Remove duplicate lines from text while keeping the original order. Dedupe a list, drop every repeated line, or keep only the duplicates, with case and whitespace options. Runs client-side.
 - [Find and Replace Text](https://toolz.dev/tools/find-and-replace) - Find and replace text online without regular expressions. Apply several rules at once, match whole words, and control case. Client-side, no signup.
+- [Grammar Checker](https://toolz.dev/tools/grammar-checker) - Check grammar, spelling and punctuation in your browser with Harper. Your text is never uploaded, and it keeps working offline.
 - [Line Sorter](https://toolz.dev/tools/line-sorter) - Sort lines of text alphabetically, numerically, or by length, reverse or shuffle them, and remove duplicates, blank lines, and whitespace - all in your browser.
 - [Lorem Ipsum Generator](https://toolz.dev/tools/lorem-ipsum) - Generate placeholder lorem ipsum text for designs and mockups
 - [Remove Line Breaks](https://toolz.dev/tools/remove-line-breaks) - Remove line breaks and carriage returns from text and join the lines back together. Flatten a whole block or keep paragraph breaks, with trim and space-collapse options, all in your browser.
@@ -767,6 +776,8 @@ A curated directory of **334+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
