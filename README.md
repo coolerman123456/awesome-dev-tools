@@ -4,7 +4,7 @@ A curated directory of **343+ free, browser-based tools** from [toolz.dev](https
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 343 tools across 30 categories · last updated 2026-11-02
+> 343 tools across 30 categories · last updated 2026-11-03
 
 ---
 
@@ -776,6 +776,8 @@ A curated directory of **343+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
