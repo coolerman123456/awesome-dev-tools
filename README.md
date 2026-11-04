@@ -1,10 +1,10 @@
 # 🧰 Awesome Tools
 
-A curated directory of **343+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
+A curated directory of **345+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 343 tools across 30 categories · last updated 2026-11-03
+> 345 tools across 30 categories · last updated 2026-11-04
 
 ---
 
@@ -183,6 +183,7 @@ A curated directory of **343+ free, browser-based tools** from [toolz.dev](https
 - [Percentage Calculator](https://toolz.dev/tools/percentage-calculator) - Calculate percentages three ways - what is X% of Y, X is what percent of Y, and percentage increase or decrease between two numbers.
 - [Profit Margin Calculator](https://toolz.dev/tools/profit-margin-calculator) - Calculate gross profit margin, markup, and selling price from cost and revenue. Solve for price from a target margin and see margin versus markup side by side.
 - [Ratio Calculator](https://toolz.dev/tools/ratio-calculator) - Simplify a ratio to its lowest terms and solve proportions. Reduce values like 1920:1080 to 16:9, or find the missing number in A:B = C:D, with decimals and percentages, all in your browser.
+- [Retainer Pricing Calculator](https://toolz.dev/tools/retainer-pricing-calculator) - Price a monthly retainer against the hours it consumes. Shows margin, effective hourly rate, the break-even price per client and the hours each one can absorb.
 - [Sales Tax Calculator](https://toolz.dev/tools/sales-tax-calculator) - Add sales tax to a price or back it out of a tax-inclusive total. Works for any rate, shows the net, tax, and gross amounts, and multiplies by quantity.
 - [Standard Deviation Calculator](https://toolz.dev/tools/standard-deviation-calculator) - Calculate population and sample standard deviation, variance, mean, median, mode, and range from any list of numbers.
 - [TDEE Calculator](https://toolz.dev/tools/tdee-calculator) - Calculate your Total Daily Energy Expenditure and BMR with the Mifflin-St Jeor equation, plus calorie targets and a macro split for any goal
@@ -442,7 +443,7 @@ A curated directory of **343+ free, browser-based tools** from [toolz.dev](https
 - [HEIC to JPG Converter](https://toolz.dev/tools/heic-to-jpg) - Convert iPhone HEIC photos to JPG in your browser, in batches, no upload needed
 - [HEIC to PDF Converter](https://toolz.dev/tools/heic-to-pdf) - Turn iPhone HEIC photos into one PDF, one page per photo, in your browser with no upload
 - [HEIC to PNG Converter](https://toolz.dev/tools/heic-to-png) - Convert HEIC photos to lossless PNG in your browser, in batches, no upload needed
-- [Image Compress](https://toolz.dev/tools/image-compress) - Compress images with adjustable quality
+- [Image Compress](https://toolz.dev/tools/image-compress) - Compress JPG, PNG and WebP images in bulk: set a quality or a target file size, resize, convert the format, and download them all as a ZIP.
 - [Image Converter](https://toolz.dev/tools/format-converter) - Convert JPG, PNG, WebP, AVIF, GIF, BMP, ICO, HEIC, TIFF, PSD, SVG, CR2, DNG and PDF files to JPG, PNG, WebP, GIF, ICO, PDF or SVG
 - [Image Dither](https://toolz.dev/tools/image-dither) - Turn photos into halftone, Bayer and 1-bit dithered posters
 - [Image Resize](https://toolz.dev/tools/image-resize) - Resize images while maintaining aspect ratio
@@ -563,6 +564,7 @@ A curated directory of **343+ free, browser-based tools** from [toolz.dev](https
 - [Remove Blank Pages](https://toolz.dev/tools/remove-blank-pages) - Find and delete blank pages from a PDF by analysing what each page draws, then download the cleaned file.
 - [Reverse PDF Page Order](https://toolz.dev/tools/reverse-pdf-pages) - Reverse the order of pages in your PDF document. The last page becomes first, and the first becomes last.
 - [Rotate PDF Pages](https://toolz.dev/tools/rotate-pdf) - Rotate PDF pages by 90, 180, or 270 degrees. Apply rotation to all pages or select specific pages to rotate.
+- [Sign PDF](https://toolz.dev/tools/sign-pdf) - Sign a PDF in your browser: draw, type or upload a signature, place it on any page, add a name or date, and download the signed file.
 - [Split PDF](https://toolz.dev/tools/split-pdf) - Split a PDF file into multiple documents by page ranges
 - [Word to PDF](https://toolz.dev/tools/word-to-pdf) - Convert a .docx to PDF in your browser. Headings, paragraphs and lists are typeset onto A4, Letter or A5 pages. The document is never uploaded.
 - [DocuPub](https://docupub.com/pdfconvert/) - Online PDF converter.
@@ -776,6 +778,8 @@ A curated directory of **343+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
